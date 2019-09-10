@@ -1,2 +1,11 @@
 # Temp-Storage
-Temp storage
+Temp storage of algorithms
+
+
+
+<B> Dijkstra's algorithm </b>
+
+
+
+
+Lol
